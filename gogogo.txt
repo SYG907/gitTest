@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+. 
+.gogogohahaha 
+=======
 
+>>>>>>> db0b61b8b6225c6fbe9060af969e1d0ddd918137
