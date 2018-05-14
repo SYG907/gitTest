@@ -1,1 +1,6 @@
 . 
+<<<<<<< HEAD
+LBH hoho 
+=======
+leebongho 
+>>>>>>> 34f66a8b2c0b5842c62e7a27ffea9fa25114bd27
